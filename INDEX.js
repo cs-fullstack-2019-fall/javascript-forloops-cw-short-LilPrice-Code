@@ -2,23 +2,23 @@
 //
 // Use a for loop to print numbers -3 through 8.
 //
-// for (var i = -3; i <= 8; i++){
-//     console.log(i);
-// }
+for (var i = -3; i <= 8; i++){
+    console.log(i);
+}
 
 // Exercise 2:
 //
 // Use a for loop to print from 0 to 50. Once it gets to 10, print "TEN!!!" instead of the number.
 //
 //
-// for (var z = 0; z <= 50; z++){
-//     if (z===10){
-//         console.log("TEN!!!!!!!")
-//     }
-//     else{
-//         console.log(z)
-//     }
-// }
+for (var z = 0; z <= 50; z++){
+    if (z===10){
+        console.log("TEN!!!!!!!")
+    }
+    else{
+        console.log(z)
+    }
+}
 
 
 //     Exercise 3:
